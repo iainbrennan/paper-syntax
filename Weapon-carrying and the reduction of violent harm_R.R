@@ -1,10 +1,10 @@
-# This is code to replicate the analyses and figures from my paper, "Predictors of illegal weapon-carrying in England and Wales"
+# This is code to replicate the analyses and figures from my paper, "Weapon-carrying and the reduction of violent harm"
 # Code developed by Iain Brennan, University of Hull, i.brennan@hull.ac.uk
 
 # The analysis consists of four data sets from the Offending, Crime and Justice
-# Survey that ran in England and Wales between 2003 and 2006. The data used are available for free from UK Data 
-# Service (https://www.ukdataservice.ac.uk/). The UK Data Service data set codes for survey waves 2003 to 2006 are 
-# SN5248; SN5374; SN5601 and SN6000, respectively. 
+# Survey that ran in England and Wales between 2004 and 2006. The data used are available for free from UK Data 
+# Service (https://www.ukdataservice.ac.uk/). The UK Data Service data set codes for survey waves 2004 to 2006 are 
+# SN5374; SN5601 and SN6000, respectively.
 
 # Apologies for the clumsiness of this code: it is my first use of R.
 
